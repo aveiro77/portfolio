@@ -1,0 +1,31 @@
+What does a database administrator do
+
+A Database Administrator (DBA) is a professional responsible for managing, maintaining and ensuring the performance of a database system. The DBA is responsible for ensuring that the database is working properly, is secure, and is available for use by applications and users.
+
+DBA's main duties include installation and configuration of database systems, design and implementation of new databases, database maintenance and optimization, data backup and restore, access and security management, database documentation, and monitoring and troubleshooting.
+
+To do their job well, DBAs must have technical skills and knowledge of technology and application databases. The DBA must also be able to work effectively with teams and understand the needs of applications and users.
+
+In general, the DBA plays a critical role in ensuring that database systems work properly and meet the needs of users and applications. They ensure that data stored in databases is secure, available, and easily accessible when needed.
+
+The job desk of a Database Administrator (DBA) is as follows:
+
+Installation and configuration of the database system: Installation and configuration of the database system in accordance with the specified specifications and standards.
+
+Database management and maintenance: Perform routine maintenance on databases, ensure data availability and ensure data integrity and security.
+
+Database design and implementation: Design and implement new databases according to application and user requirements.
+
+Database performance optimization: Perform tuning and optimization of database performance to ensure that the database works quickly and efficiently.
+
+Data backup and restore: Perform regular data backup and restore and ensure that data can be restored in good condition should a problem occur.
+
+Access and security management: Assign and manage user access rights and ensure that sensitive data is properly protected.
+
+Database documentation: Documents database design and configuration to facilitate maintenance and further development.
+
+Monitoring and troubleshooting: Monitoring database performance and performing troubleshooting if there is a problem with the database.
+
+Development and improvement: Continuously upgrading skills and studying new technologies and applications to ensure that the database is always up-to-date and meets user needs.
+
+The DBA job desk is very important because it ensures that the database works properly and meets the needs of applications and users. DBAs must have the technical skills and knowledge of database technologies and applications to be able to perform their tasks well.
